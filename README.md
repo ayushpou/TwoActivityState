@@ -1,1 +1,1 @@
-![gif](v2.gif)
+![screenshot](s1.png)
